@@ -24,3 +24,7 @@ This application was built with the online Android app builder tool "Kodular."
 
 
 
+![6](https://user-images.githubusercontent.com/65550041/209725266-0aa99271-4687-401e-86e5-450ce64b9e8f.jpg)
+
+
+
