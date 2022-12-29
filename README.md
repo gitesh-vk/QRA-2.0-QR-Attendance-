@@ -1,4 +1,4 @@
-This is a new version of the previous application, which has some basic features.
+This is a new version of the previous application, which had some basic features.
 
 Now we've added some new features, such as
 
